@@ -1,2 +1,2 @@
 # osvac
-osVAC and osVAC neo adapters for vacuumin your workshop
+osVAC and osVAC neo adapters for vacuuming your workshop
